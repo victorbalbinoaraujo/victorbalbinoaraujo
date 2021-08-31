@@ -1,5 +1,5 @@
-- 🔭 I’m currently working at Compasso UOL as Chatbot Developer / Inbenta
-- 🌱 I’m currently learning Django Framework
+- 🔭 I’m currently working at Compasso UOL as Chatbot Developer / RASA
+- 🌱 I’m currently learning Flask
 - 😄 Pronouns: He/Him
 
  <div>
