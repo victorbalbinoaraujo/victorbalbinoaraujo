@@ -14,7 +14,11 @@
   
   <img align="center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
-  <img align="center" alt="Django" height="110" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="Django" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+ 
+  <img align="center" alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+ 
+ <img align="center" alt="Flask" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   
   <img align="center" alt="VSCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   
