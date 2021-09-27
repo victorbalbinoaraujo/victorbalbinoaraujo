@@ -1,5 +1,5 @@
 - 🔭 I’m currently working at Compasso UOL as Chatbot Developer / RASA
-- 🌱 I’m currently learning Python / R / Machine Learning / Scikit-Learn / Tensorflow
+- 🌱 I’m currently learning Python / R / Julia / Machine Learning / Scikit-Learn / Tensorflow
 - 😄 Pronouns: He/Him
 
  <div>
@@ -10,6 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Julia" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
   <img align="center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Jupyter" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="VSCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
