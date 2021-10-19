@@ -1,4 +1,4 @@
-- 🔭 I’m currently working at Compasso UOL as Chatbot Developer / RASA
+- 🔭 I’m currently working at Compasso UOL as Chatbot Developer
 - 🌱 I’m currently learning Python / R / Julia / Machine Learning / Scikit-Learn / Tensorflow
 - 😄 Pronouns: He/Him
 
