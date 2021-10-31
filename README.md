@@ -1,6 +1,6 @@
-- 🔭 I’m currently working at Compasso UOL as Chatbot Developer
-- 🌱 I’m currently learning Python / Rust / R / Julia / Machine Learning / Scikit-Learn / Tensorflow
-- 😄 Pronouns: He/Him
+- 👨‍💻 I’m currently working at Compasso UOL as Chatbot Developer
+- 📚 I’m currently learning Python / Rust / R / Julia / Machine Learning / Scikit-Learn / Tensorflow
+- 🧔 Pronouns: He/Him
 
  <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorbalbinoaraujo&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
