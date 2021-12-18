@@ -1,5 +1,5 @@
 - 👨‍💻 I’m currently working at Compasso UOL as Chatbot Developer
-- 📚 I’m currently learning Python / Scala / R
+- 📚 I’m currently learning Python / Rust
 - 🧔 Pronouns: He/Him
 
  <div>
